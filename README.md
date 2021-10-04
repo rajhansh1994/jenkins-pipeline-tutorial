@@ -1,3 +1,3 @@
 # jenkins-pipeline-tutorial
 Jenkins Pipeline Tutorial
-hello people
+hello
